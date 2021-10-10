@@ -15,4 +15,5 @@
 
 ### Results: ###
 
-&emsp;&emsp;&emsp;&emsp;&emsp;I know it seemed like just a little bit of time, however if you are running a large amount of code, it might mean the difference between making your deadline or not. In our case, it wasn't very much time and computers can run at amazing speeds.
+&emsp;&emsp;&emsp;&emsp;&emsp;I know it seemed like just a little bit of time, however if you are running a large amount of code, it might mean the difference between making your deadline or not. In our case, it wasn't very much time and computers can run at amazing speeds. You can see in a side by side of each of th years 2017 and 2018 that the time difference was very different and helps support my findings.
+
