@@ -18,4 +18,4 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;I know it seemed like just a little bit of time, however if you are running a large amount of code, it might mean the difference between making your deadline or not. In our case, it wasn't very much time and computers can run at amazing speeds. You can see in a side by side of each of th years 2017 and 2018 that the time difference was very different and helps support my findings.
 
 <img src="https://github.com/ChristianShada/Stock_Analysis_2.0/blob/main/VBA_Challenge_2017.png" width="400" height="400"> <img src="https://github.com/ChristianShada/Stock_Analysis_2.0/blob/main/Faster_VBA_Challenge_2017.PNG" width="400" height="400">
-
+<img src="https://github.com/ChristianShada/Stock_Analysis_2.0/blob/main/VBA_Challenge_2018.PNG" width="400" height="400">
