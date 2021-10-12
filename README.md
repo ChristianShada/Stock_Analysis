@@ -22,7 +22,7 @@
 <br/>
 <br/>
 <br/>
-<img src="https://github.com/ChristianShada/Stock_Analysis_2.0/blob/main/VBA_Challenge_2018.PNG" width="400" height="400"> <img src="https://github.com/ChristianShada/Stock_Analysis_2.0/blob/main/Faster_VBA_Challenge_2018.png" width="400" height="400"><br/>
+<img src="https://github.com/ChristianShada/Stock_Analysis_2.0/blob/main/VBA_Challenge_2018.PNG" width="400" height="400"> <img src="https://github.com/ChristianShada/Stock_Analysis_2.0/blob/main/Even_Faster_VBA_Challenge_2018.png" width="400" height="400"><br/>
 *The immage on the left will showcase the initial script. The image on the right will showcase the speed of a refactored script for 2018.*
 <br/>
 <br/>
